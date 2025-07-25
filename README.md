@@ -1,6 +1,6 @@
 # Sales Forecast Dashboard using Power BI
 
-Welcome to my first internship task under **Future Interns 2025**!
+Welcome to my first internship task under **Future Interns**!
 This project is all about **sales forecasting** using **Facebook Prophet** and visualizing results using **Power BI** to drive business insights.
 
 ---
@@ -61,7 +61,7 @@ Future Interns
 ## 🗃 Dataset Info
 
 * **Fields**: `ds` (date), `y` (actual sales), `yhat` (forecast), `yhat_upper/lower`, etc.
-* **Source**: ` Superstore sales dataset` (kaggle)
+* **Source**: `Superstore sales dataset` (kaggle)
 
 ---
 
