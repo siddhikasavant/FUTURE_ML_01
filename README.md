@@ -19,8 +19,8 @@ This project is all about **sales forecasting** using **Facebook Prophet** and v
 ## 📂 Folder Structure
 
 ```
-Future Interns
-└── Sales Forecast Dashboard using Power BI/
+Future_Interns
+└── Sales_Forecast_Dashboard_PowerBI/
 │
 ├── data/
 │   ├── Superstore.csv
